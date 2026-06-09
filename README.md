@@ -1,3 +1,10 @@
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-alpha-yellow)
+![Codex Skill](https://img.shields.io/badge/Codex-Skill-blue)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+
+
 ````md
                                  88             
                                  88             
